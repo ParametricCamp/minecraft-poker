@@ -2,7 +2,7 @@
 
 ![](assets/cover.png)
 
-A small console app for AFK on Minecraft Realms. The app sends key strokes and clicks to the Minecraft application at regular intervals, to avoid timeout kick outs from the server due to idleness.
+A small clicker console app for AFK on Minecraft Realms. The app sends key strokes and clicks to the Minecraft application at regular intervals, to avoid timeout kick outs from the server due to idleness or for XP farming. 
 
 ## Instructions
 Please watch the video to learn how to use the app: [https://youtu.be/-BK2g4IXmvA](https://youtu.be/-BK2g4IXmvA)
@@ -11,10 +11,13 @@ Alternatively:
 - Download the latest release from [here](https://github.com/ParametricCamp/minecraft-poker/releases)
 - Extract on your machine, and make sure to unblock both the executable and the dll. 
 - Open Minecraft, connect to the server and start the game.
-- Make sure you have a torch on your hand, and you are looking at a solid block to place it on, then pause the game on Game Menu. Leave the window open.
+- For _regular AFK farming_:
+  - Make sure you have a torch on your hand, and you are looking at a solid block to place it on, then pause the game on Game Menu. Leave the window open.
+- For _XP farming_:
+  - Make sure you have a weapon on your hand, and you are looking at where your mobs will show up.  
 - Double click on the Poker app.
 - Set values for clicking intervals and random variation, or press enter to stick to defaults. 
-- The app should now set Minecraft on focus, leave the Game Menu to resume the game, and start sending clicks to place/remove the torch at the specified intervals. 
+- The app should now set Minecraft on focus, leave the Game Menu to resume the game, and start sending clicks to place/remove the torch at the specified intervals, or slain the mobs!
 
 Please note that Minecraft should always be on focus for this app to work, so you won't be able to have it in the background while you are doing something else on the computer... :(
 
