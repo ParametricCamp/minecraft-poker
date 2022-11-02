@@ -29,7 +29,7 @@ namespace minecraft_poker
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Minecraft Poker!");
-            Console.WriteLine("A mighy clicker app for Minecraft AFK");
+            Console.WriteLine("A mighty clicker app for Minecraft AFK");
             Console.WriteLine("");
 
             // Choose clicker mode
